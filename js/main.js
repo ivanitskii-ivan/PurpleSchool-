@@ -53,6 +53,7 @@ function setActiveNavItem(targetId) {
 
 function scrollToSection(targetId) {
   const section = document.getElementById(targetId);
+  console.log(section)
   if (!section) return;
 
   const header = document.querySelector(".header");
