@@ -4,7 +4,7 @@
 
 ## 🌐 Demo
 
-[Открыть проект](#) <!-- вставь ссылку на GitHub Pages -->
+ https://ivanitskii-ivan.github.io/PurpleSchool-
 
 ## 🚀 Основные решения
 
